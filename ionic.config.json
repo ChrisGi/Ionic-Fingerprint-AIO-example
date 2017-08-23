@@ -1,0 +1,8 @@
+{
+  "name": "fingerprint-poc",
+  "app_id": "pl.fingerprint.poc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
